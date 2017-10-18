@@ -1,0 +1,23 @@
+{
+  "name": "js_execute_principle",
+  "version": "1.0.0",
+  "description": "配置了gulp和browser-sync。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag2050/js_execute_principle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cag2050/js_execute_principle/issues"
+  },
+  "homepage": "https://github.com/cag2050/js_execute_principle#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
