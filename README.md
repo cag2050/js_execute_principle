@@ -5,6 +5,7 @@
     　　step 4. 执行代码段，有错则报错（比如变量未定义）。
     　　step 5. 如果还有下一个代码段，则读入下一个代码段，重复step2。
     　　step 6. 结束。
+* 地址：http://www.cnblogs.com/cag2050/p/7687775.html
     
 ### 配置了gulp和browser-sync。  
 说明：
